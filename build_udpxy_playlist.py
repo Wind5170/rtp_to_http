@@ -11,7 +11,7 @@ from concurrent.futures import ThreadPoolExecutor
 # ================= 配置区域 =================
 # 1. 数据源配置
 DATA_SOURCE = "local"  # 可选值: "quake" (使用Quake API) 或 "local" (使用本地文件)
-QUAKE_TOKEN = "d780dc89-e5dd-44e9-9f17-9e8794f0e9d6" # 你的 Quake Token
+QUAKE_TOKEN = "your_QUAKE_TOKEN" # 你的 Quake Token
 TEMPLATE_DIR = "multicast_addresses/active"                      # 母版文件夹名称
 LOCAL_NODES_FILE = "nodes.txt"                        # 本地节点文件名称
 FORCE_GENERATE = True                                # 是否强制生成（跳过现有文件有效性检查）
@@ -22,16 +22,16 @@ TEST_MAX_WORKERS = 20  # 并发测速服务器节点数量，默认最大20
 GENERATE_MAX_SERVERS = 5  # 生成时使用服务器数量，默认最大5
 
 # 3. Gitee 推送配置 (填入你的信息)
-GITEE_TOKEN = "6cbc7f1a6ff6022eade6c01df948b6df"              # Gitee 私人令牌
-GITEE_USER = "cool-windy"                     # Gitee 个人主页URL里的英文用户名
-GITEE_REPO = "udpxy"                            # Gitee 仓库名称
+GITEE_TOKEN = "your_GITEE_TOKEN"              # Gitee 私人令牌
+GITEE_USER = "your_GITEE_USER"                     # Gitee 个人主页URL里的英文用户名
+GITEE_REPO = "your_GITEE_REPO"                            # Gitee 仓库名称
 GITEE_BRANCH = "master"                          # Gitee 分支名称
 GITEE_AUTO_PUSH = True                         # 是否自动推送至Gitee，False则跳过推送
 
 # 4. GitHub 推送配置 (填入你的信息)
-GITHUB_TOKEN = "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"                                    # GitHub 私人令牌 (Personal Access Token)
-GITHUB_USER = "Wind5170"                                    # GitHub 用户名
-GITHUB_REPO = "TV"                                    # GitHub 仓库名称
+GITHUB_TOKEN = "your_GITHUB_TOKEN"                                    # GitHub 私人令牌 (Personal Access Token)
+GITHUB_USER = "your_GITHUB_USER"                                    # GitHub 用户名
+GITHUB_REPO = "your_GITHUB_REPO"                                    # GitHub 仓库名称
 GITHUB_BRANCH = "main"                              # 分支名称
 GITHUB_AUTO_PUSH = True                            # 是否自动推送至GitHub，False则跳过推送
 
