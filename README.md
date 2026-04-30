@@ -54,7 +54,7 @@ udpxy/
 ```python
 # 1. 数据源配置
 DATA_SOURCE = "local"  # 可选值: "quake" (使用Quake API) 或 "local" (使用本地文件)
-QUAKE_TOKEN = "d780dc89-e5dd-44e9-9f17-9e8794f0e9d6" # 你的 Quake Token
+QUAKE_TOKEN = "" # 你的 Quake Token
 TEMPLATE_DIR = "multicast_addresses/active"  # 母版文件夹名称
 LOCAL_NODES_FILE = "nodes.txt"              # 本地节点文件名称
 FORCE_GENERATE = False                      # 是否强制生成
