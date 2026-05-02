@@ -1,0 +1,189 @@
+#EXTM3U x-tvg-url="https://epg.51zmt.top:8000/e.xml"
+
+#==================== 0段-标清主频道 ====================
+#EXTINF:-1 group-title="0段-标清主频道",CCTV1综合
+http://114.222.8.67:8001/udp/239.49.0.1:8000
+#EXTINF:-1 group-title="0段-标清主频道",CCTV1综合
+http://dx.joygala.cn:8118/udp/239.49.0.1:8000
+#EXTINF:-1 group-title="0段-标清主频道",CCTV1综合
+http://j1900.silicaite.top:58888/udp/239.49.0.1:8000
+#EXTINF:-1 group-title="0段-标清主频道",CCTV1综合
+http://clnas.heylc.com:4022/udp/239.49.0.1:8000
+#EXTINF:-1 group-title="0段-标清主频道",CCTV1综合
+http://istoreos.sclvip.top:8787/udp/239.49.0.1:8000
+
+#EXTINF:-1 group-title="0段-标清主频道",CCTV2财经
+http://114.222.8.67:8001/udp/239.49.0.2:8008
+#EXTINF:-1 group-title="0段-标清主频道",CCTV2财经
+http://dx.joygala.cn:8118/udp/239.49.0.2:8008
+#EXTINF:-1 group-title="0段-标清主频道",CCTV2财经
+http://j1900.silicaite.top:58888/udp/239.49.0.2:8008
+#EXTINF:-1 group-title="0段-标清主频道",CCTV2财经
+http://clnas.heylc.com:4022/udp/239.49.0.2:8008
+#EXTINF:-1 group-title="0段-标清主频道",CCTV2财经
+http://istoreos.sclvip.top:8787/udp/239.49.0.2:8008
+
+#EXTINF:-1 group-title="0段-标清主频道",CCTV3综艺
+http://114.222.8.67:8001/udp/239.49.0.3:9566
+#EXTINF:-1 group-title="0段-标清主频道",CCTV3综艺
+http://dx.joygala.cn:8118/udp/239.49.0.3:9566
+#EXTINF:-1 group-title="0段-标清主频道",CCTV3综艺
+http://j1900.silicaite.top:58888/udp/239.49.0.3:9566
+#EXTINF:-1 group-title="0段-标清主频道",CCTV3综艺
+http://clnas.heylc.com:4022/udp/239.49.0.3:9566
+#EXTINF:-1 group-title="0段-标清主频道",CCTV3综艺
+http://istoreos.sclvip.top:8787/udp/239.49.0.3:9566
+
+#EXTINF:-1 group-title="0段-标清主频道",CCTV4中文国际
+http://114.222.8.67:8001/udp/239.49.0.4:8024
+#EXTINF:-1 group-title="0段-标清主频道",CCTV4中文国际
+http://dx.joygala.cn:8118/udp/239.49.0.4:8024
+#EXTINF:-1 group-title="0段-标清主频道",CCTV4中文国际
+http://j1900.silicaite.top:58888/udp/239.49.0.4:8024
+#EXTINF:-1 group-title="0段-标清主频道",CCTV4中文国际
+http://clnas.heylc.com:4022/udp/239.49.0.4:8024
+#EXTINF:-1 group-title="0段-标清主频道",CCTV4中文国际
+http://istoreos.sclvip.top:8787/udp/239.49.0.4:8024
+
+#EXTINF:-1 group-title="0段-标清主频道",CCTV5体育
+http://114.222.8.67:8001/udp/239.49.0.5:9570
+#EXTINF:-1 group-title="0段-标清主频道",CCTV5体育
+http://dx.joygala.cn:8118/udp/239.49.0.5:9570
+#EXTINF:-1 group-title="0段-标清主频道",CCTV5体育
+http://j1900.silicaite.top:58888/udp/239.49.0.5:9570
+#EXTINF:-1 group-title="0段-标清主频道",CCTV5体育
+http://clnas.heylc.com:4022/udp/239.49.0.5:9570
+#EXTINF:-1 group-title="0段-标清主频道",CCTV5体育
+http://istoreos.sclvip.top:8787/udp/239.49.0.5:9570
+
+#EXTINF:-1 group-title="0段-标清主频道",CCTV6电影
+http://114.222.8.67:8001/udp/239.49.0.6:9574
+#EXTINF:-1 group-title="0段-标清主频道",CCTV6电影
+http://dx.joygala.cn:8118/udp/239.49.0.6:9574
+#EXTINF:-1 group-title="0段-标清主频道",CCTV6电影
+http://j1900.silicaite.top:58888/udp/239.49.0.6:9574
+#EXTINF:-1 group-title="0段-标清主频道",CCTV6电影
+http://clnas.heylc.com:4022/udp/239.49.0.6:9574
+#EXTINF:-1 group-title="0段-标清主频道",CCTV6电影
+http://istoreos.sclvip.top:8787/udp/239.49.0.6:9574
+
+#EXTINF:-1 group-title="0段-标清主频道",CCTV7国防军事
+http://114.222.8.67:8001/udp/239.49.0.7:8048
+#EXTINF:-1 group-title="0段-标清主频道",CCTV7国防军事
+http://dx.joygala.cn:8118/udp/239.49.0.7:8048
+#EXTINF:-1 group-title="0段-标清主频道",CCTV7国防军事
+http://j1900.silicaite.top:58888/udp/239.49.0.7:8048
+#EXTINF:-1 group-title="0段-标清主频道",CCTV7国防军事
+http://clnas.heylc.com:4022/udp/239.49.0.7:8048
+#EXTINF:-1 group-title="0段-标清主频道",CCTV7国防军事
+http://istoreos.sclvip.top:8787/udp/239.49.0.7:8048
+
+#EXTINF:-1 group-title="0段-标清主频道",CCTV8电视剧
+http://114.222.8.67:8001/udp/239.49.0.8:9578
+#EXTINF:-1 group-title="0段-标清主频道",CCTV8电视剧
+http://dx.joygala.cn:8118/udp/239.49.0.8:9578
+#EXTINF:-1 group-title="0段-标清主频道",CCTV8电视剧
+http://j1900.silicaite.top:58888/udp/239.49.0.8:9578
+#EXTINF:-1 group-title="0段-标清主频道",CCTV8电视剧
+http://clnas.heylc.com:4022/udp/239.49.0.8:9578
+#EXTINF:-1 group-title="0段-标清主频道",CCTV8电视剧
+http://istoreos.sclvip.top:8787/udp/239.49.0.8:9578
+
+#EXTINF:-1 group-title="0段-标清主频道",CCTV9纪录
+http://114.222.8.67:8001/udp/239.49.0.9:8064
+#EXTINF:-1 group-title="0段-标清主频道",CCTV9纪录
+http://dx.joygala.cn:8118/udp/239.49.0.9:8064
+#EXTINF:-1 group-title="0段-标清主频道",CCTV9纪录
+http://j1900.silicaite.top:58888/udp/239.49.0.9:8064
+#EXTINF:-1 group-title="0段-标清主频道",CCTV9纪录
+http://clnas.heylc.com:4022/udp/239.49.0.9:8064
+#EXTINF:-1 group-title="0段-标清主频道",CCTV9纪录
+http://istoreos.sclvip.top:8787/udp/239.49.0.9:8064
+
+#EXTINF:-1 group-title="0段-标清主频道",CCTV10科教
+http://114.222.8.67:8001/udp/239.49.0.10:8072
+#EXTINF:-1 group-title="0段-标清主频道",CCTV10科教
+http://dx.joygala.cn:8118/udp/239.49.0.10:8072
+#EXTINF:-1 group-title="0段-标清主频道",CCTV10科教
+http://j1900.silicaite.top:58888/udp/239.49.0.10:8072
+#EXTINF:-1 group-title="0段-标清主频道",CCTV10科教
+http://clnas.heylc.com:4022/udp/239.49.0.10:8072
+#EXTINF:-1 group-title="0段-标清主频道",CCTV10科教
+http://istoreos.sclvip.top:8787/udp/239.49.0.10:8072
+
+#EXTINF:-1 group-title="0段-标清主频道",CCTV11戏曲
+http://114.222.8.67:8001/udp/239.49.0.11:8080
+#EXTINF:-1 group-title="0段-标清主频道",CCTV11戏曲
+http://dx.joygala.cn:8118/udp/239.49.0.11:8080
+#EXTINF:-1 group-title="0段-标清主频道",CCTV11戏曲
+http://j1900.silicaite.top:58888/udp/239.49.0.11:8080
+#EXTINF:-1 group-title="0段-标清主频道",CCTV11戏曲
+http://clnas.heylc.com:4022/udp/239.49.0.11:8080
+#EXTINF:-1 group-title="0段-标清主频道",CCTV11戏曲
+http://istoreos.sclvip.top:8787/udp/239.49.0.11:8080
+
+#EXTINF:-1 group-title="0段-标清主频道",CCTV12社会与法
+http://114.222.8.67:8001/udp/239.49.0.12:8088
+#EXTINF:-1 group-title="0段-标清主频道",CCTV12社会与法
+http://dx.joygala.cn:8118/udp/239.49.0.12:8088
+#EXTINF:-1 group-title="0段-标清主频道",CCTV12社会与法
+http://j1900.silicaite.top:58888/udp/239.49.0.12:8088
+#EXTINF:-1 group-title="0段-标清主频道",CCTV12社会与法
+http://clnas.heylc.com:4022/udp/239.49.0.12:8088
+#EXTINF:-1 group-title="0段-标清主频道",CCTV12社会与法
+http://istoreos.sclvip.top:8787/udp/239.49.0.12:8088
+
+#EXTINF:-1 group-title="0段-标清主频道",CCTV13新闻
+http://114.222.8.67:8001/udp/239.49.0.13:8096
+#EXTINF:-1 group-title="0段-标清主频道",CCTV13新闻
+http://dx.joygala.cn:8118/udp/239.49.0.13:8096
+#EXTINF:-1 group-title="0段-标清主频道",CCTV13新闻
+http://j1900.silicaite.top:58888/udp/239.49.0.13:8096
+#EXTINF:-1 group-title="0段-标清主频道",CCTV13新闻
+http://clnas.heylc.com:4022/udp/239.49.0.13:8096
+#EXTINF:-1 group-title="0段-标清主频道",CCTV13新闻
+http://istoreos.sclvip.top:8787/udp/239.49.0.13:8096
+
+#EXTINF:-1 group-title="0段-标清主频道",CCTV14少儿
+http://114.222.8.67:8001/udp/239.49.0.14:8104
+#EXTINF:-1 group-title="0段-标清主频道",CCTV14少儿
+http://dx.joygala.cn:8118/udp/239.49.0.14:8104
+#EXTINF:-1 group-title="0段-标清主频道",CCTV14少儿
+http://j1900.silicaite.top:58888/udp/239.49.0.14:8104
+#EXTINF:-1 group-title="0段-标清主频道",CCTV14少儿
+http://clnas.heylc.com:4022/udp/239.49.0.14:8104
+#EXTINF:-1 group-title="0段-标清主频道",CCTV14少儿
+http://istoreos.sclvip.top:8787/udp/239.49.0.14:8104
+
+#EXTINF:-1 group-title="0段-标清主频道",CCTV15音乐
+http://114.222.8.67:8001/udp/239.49.0.15:8112
+#EXTINF:-1 group-title="0段-标清主频道",CCTV15音乐
+http://dx.joygala.cn:8118/udp/239.49.0.15:8112
+#EXTINF:-1 group-title="0段-标清主频道",CCTV15音乐
+http://j1900.silicaite.top:58888/udp/239.49.0.15:8112
+#EXTINF:-1 group-title="0段-标清主频道",CCTV15音乐
+http://clnas.heylc.com:4022/udp/239.49.0.15:8112
+#EXTINF:-1 group-title="0段-标清主频道",CCTV15音乐
+http://istoreos.sclvip.top:8787/udp/239.49.0.15:8112
+
+#EXTINF:-1 group-title="0段-标清主频道",CCTV17农业农村
+http://114.222.8.67:8001/udp/239.49.0.7:8048
+#EXTINF:-1 group-title="0段-标清主频道",CCTV17农业农村
+http://dx.joygala.cn:8118/udp/239.49.0.7:8048
+#EXTINF:-1 group-title="0段-标清主频道",CCTV17农业农村
+http://j1900.silicaite.top:58888/udp/239.49.0.7:8048
+#EXTINF:-1 group-title="0段-标清主频道",CCTV17农业农村
+http://clnas.heylc.com:4022/udp/239.49.0.7:8048
+#EXTINF:-1 group-title="0段-标清主频道",CCTV17农业农村
+http://istoreos.sclvip.top:8787/udp/239.49.0.7:8048
+
+#EXTINF:-1 group-title="0段-标清主频道",江苏卫视
+http://114.222.8.67:8001/udp/239.49.0.16:8120
+#EXTINF:-1 group-title="0段-标清主频道",江苏卫视
+http://dx.joygala.cn:8118/udp/239.49.0.16:8120
+#EXTINF:-1 group-title="0段-标清主频道",江苏卫视
+http://j1900.silicaite.top:58888/udp/239.49.0.16:8120
+#EXTINF:-1 group-title="0段-标清主频道",江苏卫视
+http://clnas.heylc.com:4022/udp/239.49.0.16:8120
+#EXTINF:-1 group-title="0段-标清主频道",江苏卫视
+http://istoreos.sclvip.top:8787/udp/239.49.0.16:8120
